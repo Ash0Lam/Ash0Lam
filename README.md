@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Ash
 
-<!--
-**Ash0Lam/Ash0Lam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🍣 *Omakase-style developer — building what sparks my curiosity.*  
+I enjoy working on projects that combine **AI**, **automation**, and real-world usability.  
+✨ *From spark to solution — one idea at a time.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+
+### 🍸 Outlook Template Bartender  
+An offline Outlook email tool I built during work, to help with template management on legacy office machines.  
+> `Python` · `Tkinter` · `Outlook COM` · `pywebview`
+
+---
+
+## 🧠 Currently...
+
+- 🔭 Working on: Real-time interactive systems with speech + WebSocket (based on my FYP)  
+- 🏫 Built in school: A voice-interactive AI robot (FYP) & forum web app (Python + SQLite)  
+- 🌱 Learning: Python packaging, real-time dev, cross-platform desktop app delivery  
+- 📫 Reach me: [ash_work@outlook.com](mailto:ash_work@outlook.com) | [LinkedIn](https://linkedin.com/in/ash0lam)
+
+---
+
+> **Sparks of curiosity**  
+> **Shaped into ideas**  
+> **Crafted with AI**
+
+🔗 [Visit my blog](https://ash0lam.github.io) for write-ups, demos, and more.
